@@ -4,7 +4,7 @@ set number
 " Enable mouse in all modes
 set mouse=a
 
-" Don't reset cursot to start of line when moving around
+" Don't reset cursor to start of line when moving around
 set nostartofline
 
 " Show whitespace characters
