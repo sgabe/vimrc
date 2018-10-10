@@ -9,3 +9,6 @@ set nostartofline
 
 " Show whitespace characters
 set list listchars=eol:$,space:·
+
+" Show partial commands in the last line of the screen
+set showcmd
